@@ -1,13 +1,13 @@
 {
   "expo": {
-    "name": "nft-market",
-    "slug": "nft-market",
+    "name": "Og-nft-market",
+    "slug": "Og-nft-market",
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/icon.png",
+    "icon": "./assets/alienhead.png",
     "userInterfaceStyle": "light",
     "splash": {
-      "image": "./assets/splash.png",
+      "image": "./assets/giphy.gif",
       "resizeMode": "contain",
       "backgroundColor": "#ffffff"
     },
